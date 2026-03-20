@@ -1,0 +1,4 @@
+krishi/
+__pycache__/
+*.pyc
+.env

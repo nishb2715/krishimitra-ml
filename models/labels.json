@@ -1,0 +1,72 @@
+{
+  "0": {
+    "class_name": "Corn_(maize)___Common_rust_",
+    "odia_name": "Corn_(maize)___Common_rust_",
+    "severity": "unknown",
+    "advice_odia": "ଡାକ୍ତରଙ୍କ ସହ ଯୋଗାଯୋଗ କରନ୍ତୁ।",
+    "see_vet": true
+  },
+  "1": {
+    "class_name": "Corn_(maize)___Northern_Leaf_Blight",
+    "odia_name": "Corn_(maize)___Northern_Leaf_Blight",
+    "severity": "unknown",
+    "advice_odia": "ଡାକ୍ତରଙ୍କ ସହ ଯୋଗାଯୋଗ କରନ୍ତୁ।",
+    "see_vet": true
+  },
+  "2": {
+    "class_name": "Corn_(maize)___healthy",
+    "odia_name": "Corn_(maize)___healthy",
+    "severity": "unknown",
+    "advice_odia": "ଡାକ୍ତରଙ୍କ ସହ ଯୋଗାଯୋଗ କରନ୍ତୁ।",
+    "see_vet": true
+  },
+  "3": {
+    "class_name": "Potato___Early_blight",
+    "odia_name": "Potato___Early_blight",
+    "severity": "unknown",
+    "advice_odia": "ଡାକ୍ତରଙ୍କ ସହ ଯୋଗାଯୋଗ କରନ୍ତୁ।",
+    "see_vet": true
+  },
+  "4": {
+    "class_name": "Potato___Late_blight",
+    "odia_name": "Potato___Late_blight",
+    "severity": "unknown",
+    "advice_odia": "ଡାକ୍ତରଙ୍କ ସହ ଯୋଗାଯୋଗ କରନ୍ତୁ।",
+    "see_vet": true
+  },
+  "5": {
+    "class_name": "Potato___healthy",
+    "odia_name": "Potato___healthy",
+    "severity": "unknown",
+    "advice_odia": "ଡାକ୍ତରଙ୍କ ସହ ଯୋଗାଯୋଗ କରନ୍ତୁ।",
+    "see_vet": true
+  },
+  "6": {
+    "class_name": "Tomato___Early_blight",
+    "odia_name": "Tomato___Early_blight",
+    "severity": "unknown",
+    "advice_odia": "ଡାକ୍ତରଙ୍କ ସହ ଯୋଗାଯୋଗ କରନ୍ତୁ।",
+    "see_vet": true
+  },
+  "7": {
+    "class_name": "Tomato___Late_blight",
+    "odia_name": "Tomato___Late_blight",
+    "severity": "unknown",
+    "advice_odia": "ଡାକ୍ତରଙ୍କ ସହ ଯୋଗାଯୋଗ କରନ୍ତୁ।",
+    "see_vet": true
+  },
+  "8": {
+    "class_name": "Tomato___Leaf_Mold",
+    "odia_name": "Tomato___Leaf_Mold",
+    "severity": "unknown",
+    "advice_odia": "ଡାକ୍ତରଙ୍କ ସହ ଯୋଗାଯୋଗ କରନ୍ତୁ।",
+    "see_vet": true
+  },
+  "9": {
+    "class_name": "Tomato___healthy",
+    "odia_name": "ଟମାଟୋ ସୁସ୍ଥ",
+    "severity": "none",
+    "advice_odia": "ଆପଣଙ୍କ ଫସଲ ସୁସ୍ଥ ଅଛି। ଚିନ୍ତା ନାହିଁ।",
+    "see_vet": false
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "0": {
+    "class_name": "diseased",
+    "odia_name": "ପଶୁ ଅସୁସ୍ଥ ଦେଖାଯାଉଛି",
+    "severity": "high",
+    "advice_odia": "ଆପଣଙ୍କ ପଶୁର ଶରୀରରେ ରୋଗ ଲକ୍ଷଣ ଦେଖାଯାଉଛି। ଆଜି ପଶୁ ଡାକ୍ତରଙ୍କ ସହ ଯୋଗାଯୋଗ କରନ୍ତୁ।",
+    "home_remedy": "ଅନ୍ୟ ପଶୁଠାରୁ ଅଲଗା ରଖନ୍ତୁ। ସଫା ପାଣି ଓ ଖାଦ୍ୟ ଦିଅନ୍ତୁ।",
+    "see_vet_urgently": true
+  },
+  "1": {
+    "class_name": "healthy",
+    "odia_name": "ପଶୁ ସୁସ୍ଥ ଅଛି",
+    "severity": "none",
+    "advice_odia": "ଆପଣଙ୍କ ପଶୁ ସୁସ୍ଥ ଦେଖାଯାଉଛି। ନିୟମିତ ଯତ୍ନ ଜାରି ରଖନ୍ତୁ।",
+    "home_remedy": "ସୁଷମ ଖାଦ୍ୟ ଓ ସଫା ପାଣି ଦିଅନ୍ତୁ।",
+    "see_vet_urgently": false
+  }
+}
